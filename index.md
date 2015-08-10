@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trevor M Reed
-tagline: Supporting tagline
+#tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
