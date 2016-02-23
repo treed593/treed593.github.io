@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Trevor M Reed</title>
+ <link href="http://treed593.github.io/atom.xml" rel="self"/>
+ <link href="http://treed593.github.io"/>
+ <updated>2016-02-22T22:38:20-05:00</updated>
+ <id>http://treed593.github.io</id>
+ <author>
+   <name>Trevor M Reed</name>
+   <email>trevor@trevorreed.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello_world</title>
+   <link href="http://treed593.github.io/2016/02/22/hello_world"/>
+   <updated>2016-02-22T00:00:00-05:00</updated>
+   <id>http://treed593.github.io/2016/02/22/hello_world</id>
+   <content type="html">#Welcome to my little slice of the Internet!
+
+My name is Trevor Reed, and I will be your guide through this simple website. Some of you may be asking &quot;Why am I here?&quot; or even &quot;What is the purpose of this website?&quot;. While I cannot answer for you,
+why you are here, I can tell you what my intended use for this website is. I plan on using the site for sharing my insights into the ever changing world of Technology. I know there are coutless sites
+on the Internet where you can read about the newest technology, and I know I could never compete with those, however I believe that there is always room for one more voice on how to improve our lives
+with new technology.
+
+</content>
+ </entry>
+ 
+ 
+</feed>
